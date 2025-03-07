@@ -11,7 +11,7 @@
 
 Tableau Dashboard: [View Dashboard](https://public.tableau.com/views/TelcoCustomerChurnDashboard_17413544666470/Finance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Streamlit Deploy: [View Streamlit](https://telco-customer-churn-prediction-jcds0508.streamlit.app/)
+Streamlit Deploy: [View Streamlit](https://telco-customer-churn-prediction-jcds0508.streamlit.app/) (Dummy for Streamlit : Telco Customer Churn - Dummy.csv)
 
 ## **Overview**
 
